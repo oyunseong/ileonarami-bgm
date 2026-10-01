@@ -19,22 +19,6 @@ BASE_URL = f"https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@{TAG}/sounds"
 
 PACKS = [
     {
-        "id": "retro_8bit",
-        "title": {"en": "Retro 8-bit", "ko": "레트로 8비트"},
-        "description": {
-            "en": "Seamlessly looping chiptunes. Public domain (CC0).",
-            "ko": "끊김 없이 반복되는 칩튠 모음. 저작권 없음(CC0).",
-        },
-        "tracks": [
-            ("pixel_morning", "Pixel Morning", "픽셀 모닝", "CC0-1.0", "Juhani Junkala"),
-            ("pixel_rush", "Pixel Rush", "픽셀 러시", "CC0-1.0", "Juhani Junkala"),
-            ("pixel_boss", "Pixel Boss", "픽셀 보스", "CC0-1.0", "Juhani Junkala"),
-            ("starlight_city", "Starlight City", "스타라이트 시티", "CC0-1.0", "Zane Little Music"),
-            ("nes_mercury", "Mercury", "머큐리", "CC0-1.0", "SketchyLogic"),
-            ("nes_venus", "Venus", "비너스", "CC0-1.0", "SketchyLogic"),
-        ],
-    },
-    {
         "id": "maple",
         "title": {"en": "MapleStory", "ko": "메이플스토리"},
         "description": {
