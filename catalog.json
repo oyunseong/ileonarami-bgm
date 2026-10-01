@@ -18,7 +18,7 @@
             "en": "Pixel Morning",
             "ko": "픽셀 모닝"
           },
-          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v1/sounds/pixel_morning.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/pixel_morning.ogg",
           "fileName": "pixel_morning.ogg",
           "sizeBytes": 1027604,
           "durationSec": 74,
@@ -32,7 +32,7 @@
             "en": "Pixel Rush",
             "ko": "픽셀 러시"
           },
-          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v1/sounds/pixel_rush.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/pixel_rush.ogg",
           "fileName": "pixel_rush.ogg",
           "sizeBytes": 973860,
           "durationSec": 73,
@@ -46,7 +46,7 @@
             "en": "Pixel Boss",
             "ko": "픽셀 보스"
           },
-          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v1/sounds/pixel_boss.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/pixel_boss.ogg",
           "fileName": "pixel_boss.ogg",
           "sizeBytes": 1097156,
           "durationSec": 82,
@@ -60,7 +60,7 @@
             "en": "Starlight City",
             "ko": "스타라이트 시티"
           },
-          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v1/sounds/starlight_city.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/starlight_city.ogg",
           "fileName": "starlight_city.ogg",
           "sizeBytes": 1341251,
           "durationSec": 100,
@@ -74,7 +74,7 @@
             "en": "Mercury",
             "ko": "머큐리"
           },
-          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v1/sounds/nes_mercury.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/nes_mercury.ogg",
           "fileName": "nes_mercury.ogg",
           "sizeBytes": 412847,
           "durationSec": 40,
@@ -88,13 +88,264 @@
             "en": "Venus",
             "ko": "비너스"
           },
-          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v1/sounds/nes_venus.ogg",
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/nes_venus.ogg",
           "fileName": "nes_venus.ogg",
           "sizeBytes": 289517,
           "durationSec": 26,
           "sha256": "9fc38a91dbe1cc622151cc14d9cc082c4a9079d032a687128fa23afd90060e6a",
           "license": "CC0-1.0",
           "credit": "SketchyLogic"
+        }
+      ]
+    },
+    {
+      "id": "maple",
+      "title": {
+        "en": "MapleStory",
+        "ko": "메이플스토리"
+      },
+      "description": {
+        "en": "MapleStory BGM. Provided with permission from NEXON.",
+        "ko": "메이플스토리 BGM. 넥슨 허락 하에 제공."
+      },
+      "tracks": [
+        {
+          "id": "maple_above_the_treetops",
+          "title": {
+            "en": "Above the Treetops",
+            "ko": "나무 위에서"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/above_the_treetops.ogg",
+          "fileName": "above_the_treetops.ogg",
+          "sizeBytes": 4032171,
+          "durationSec": 271,
+          "sha256": "97e8802267f12449bd7342ba5480282e49eddaecf48901e1eb8b0610ca9365b3",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_bad_guys",
+          "title": {
+            "en": "Bad Guys",
+            "ko": "악당들"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/bad_guys.ogg",
+          "fileName": "bad_guys.ogg",
+          "sizeBytes": 2795984,
+          "durationSec": 218,
+          "sha256": "e0b31e5efa2596df9472dd361f8ae2a6cc7a4055f9a781dfdb60f688d9274771",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_cash_shop",
+          "title": {
+            "en": "Cash Shop",
+            "ko": "캐시샵"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/cash_shop.ogg",
+          "fileName": "cash_shop.ogg",
+          "sizeBytes": 1281456,
+          "durationSec": 86,
+          "sha256": "f78b8df731f0a134ec4e865de4afc345dafe74e73172c48c1693f2f9eafcfe5f",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_floral_life",
+          "title": {
+            "en": "Floral Life",
+            "ko": "꽃 피는 나날"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/floral_life.ogg",
+          "fileName": "floral_life.ogg",
+          "sizeBytes": 1980642,
+          "durationSec": 138,
+          "sha256": "56da13cb2f08a3088f2d09f310fbe4f8adce7f997fd37a6302fa8064b725ceef",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_go_picnic",
+          "title": {
+            "en": "Go Picnic",
+            "ko": "소풍 가자"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/go_picnic.ogg",
+          "fileName": "go_picnic.ogg",
+          "sizeBytes": 867040,
+          "durationSec": 73,
+          "sha256": "eb2936cbdc56498fc96791fb59490920acd98076f6cb05c0da5b0317d6f0c865",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_gold_beach",
+          "title": {
+            "en": "Gold Beach",
+            "ko": "황금 해변"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/gold_beach.ogg",
+          "fileName": "gold_beach.ogg",
+          "sizeBytes": 1793037,
+          "durationSec": 139,
+          "sha256": "c56748232d0e0608fc1b539a79ea609aaaa3d38016102ef42796ea0bd6994750",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_little_maple_planet",
+          "title": {
+            "en": "Little Maple Planet",
+            "ko": "작은 메이플 행성"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/little_maple_planet.ogg",
+          "fileName": "little_maple_planet.ogg",
+          "sizeBytes": 1429027,
+          "durationSec": 92,
+          "sha256": "17e5b0efc6bdb9d40b369240df362e2eb4277c835b4a46eb5f261a46f22afe94",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_maple_leaf",
+          "title": {
+            "en": "Maple Leaf",
+            "ko": "단풍잎"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/maple_leaf.ogg",
+          "fileName": "maple_leaf.ogg",
+          "sizeBytes": 1802546,
+          "durationSec": 129,
+          "sha256": "c8501d72bd3b608e1b729c50834d01fb27c9dcfe0ac2181e20e780a2131f62ba",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_nightmare",
+          "title": {
+            "en": "Nightmare",
+            "ko": "악몽"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/nightmare.ogg",
+          "fileName": "nightmare.ogg",
+          "sizeBytes": 2641735,
+          "durationSec": 191,
+          "sha256": "d28ec2c9b7cb154c1b980b53c509ee1d7c117c62f903dd1c8689abd546de6730",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_rest_n_peace",
+          "title": {
+            "en": "Rest N' Peace",
+            "ko": "고요한 안식"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/rest_n_peace.ogg",
+          "fileName": "rest_n_peace.ogg",
+          "sizeBytes": 2350705,
+          "durationSec": 175,
+          "sha256": "04c13374ef8b7d246b1cc5c5362553e461659cb71a34a6f09da42a36dbf0a467",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_shop_bgm",
+          "title": {
+            "en": "Shop",
+            "ko": "상점"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/shop_bgm.ogg",
+          "fileName": "shop_bgm.ogg",
+          "sizeBytes": 1306689,
+          "durationSec": 89,
+          "sha256": "8e84abd7a10c729eac0e1eecf9e347057c5024b2a2a1247992afa57fe7745606",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_subway",
+          "title": {
+            "en": "Subway",
+            "ko": "지하철"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/subway.ogg",
+          "fileName": "subway.ogg",
+          "sizeBytes": 2597717,
+          "durationSec": 199,
+          "sha256": "fc9b95934370a8604dee2d2568da7a4709177974ae915fa89a51753b316d20e7",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_the_beginning_of_the_adventure",
+          "title": {
+            "en": "The Beginning of the Adventure",
+            "ko": "모험의 시작"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/the_beginning_of_the_adventure.ogg",
+          "fileName": "the_beginning_of_the_adventure.ogg",
+          "sizeBytes": 2448051,
+          "durationSec": 166,
+          "sha256": "fea7aa9563d387c0648f3a87d19473cea95afa8bfcf525840a174cb558baefb6",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_wc_select",
+          "title": {
+            "en": "Character Select",
+            "ko": "캐릭터 선택"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/wc_select.ogg",
+          "fileName": "wc_select.ogg",
+          "sizeBytes": 203280,
+          "durationSec": 16,
+          "sha256": "848c6cd1c9c5a97ba060c8bbebe7ed87fee6010354968244f7eb0d1f4ed663f1",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_when_the_morning_comes",
+          "title": {
+            "en": "When the Morning Comes",
+            "ko": "아침이 오면"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/when_the_morning_comes.ogg",
+          "fileName": "when_the_morning_comes.ogg",
+          "sizeBytes": 3024996,
+          "durationSec": 188,
+          "sha256": "543b16645271c3e3aa339d3b5083426fd84da8644dfd12fdbfd3382bdb69f20a",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_old_title",
+          "title": {
+            "en": "Classic Title",
+            "ko": "클래식 타이틀"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/old_title.ogg",
+          "fileName": "old_title.ogg",
+          "sizeBytes": 5572256,
+          "durationSec": 377,
+          "sha256": "91f7e4f625c37a376441ccab163f6df78f4e799ec138a5fc61484c6658ac1ac8",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
+        },
+        {
+          "id": "maple_secret_flower",
+          "title": {
+            "en": "Secret Flower",
+            "ko": "비밀의 꽃"
+          },
+          "url": "https://cdn.jsdelivr.net/gh/oyunseong/ileonarami-bgm@v3/sounds/secret_flower.ogg",
+          "fileName": "secret_flower.ogg",
+          "sizeBytes": 1897015,
+          "durationSec": 148,
+          "sha256": "2b3421e85fbad22b56012e399b96b23d80878c6ba9830330a3cfe2f426d7449c",
+          "license": "NEXON-permission",
+          "credit": "NEXON"
         }
       ]
     }

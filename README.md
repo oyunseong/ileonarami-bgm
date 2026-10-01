@@ -35,5 +35,6 @@ ffmpeg -i input.wav -af "loudnorm=I=-14:TP=-1.0:LRA=11" \
 
 ## 라이선스
 
-음원은 전부 CC0 1.0(퍼블릭 도메인). 원본 출처는 [CREDITS.md](CREDITS.md) 참고.
+`maple` 팩을 제외한 음원은 전부 CC0 1.0(퍼블릭 도메인). `maple` 팩은 권리자(NEXON)의 허락을 받아 제공한다.
+원본 출처와 허락 내역은 [CREDITS.md](CREDITS.md) 참고.
 저작권이 있는 음원(게임 BGM 등)은 권리자 서면 허락 없이 절대 추가하지 않는다.
